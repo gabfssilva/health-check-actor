@@ -1,2 +1,2 @@
-# health-check-actor
+# Higia
 Health Check library for Scala
